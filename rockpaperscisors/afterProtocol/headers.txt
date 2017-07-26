@@ -1,0 +1,20 @@
+/***********************************************************************
+* Program:
+*    Lab RPSPclient, RPSP Rock/Paper/Scissors Protocol - Client Code
+*    Brother Jones, CS 460
+* Author:
+*    Your Name
+* Summary:
+*    Descriptive text ...
+************************************************************************/
+
+/***********************************************************************
+* Program:
+*    Lab RPSPserver, RPSP Rock/Paper/Scissors Protocol - Server Code
+*    Brother Jones, CS 460
+* Author:
+*    Your Name
+* Summary:
+*    Descriptive text ...
+************************************************************************/
+
